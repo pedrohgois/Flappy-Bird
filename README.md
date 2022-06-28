@@ -1,2 +1,2 @@
-# Flappy-Bird
+# Jogo Flappy-Bird
 Jogo em desenvolvimento
