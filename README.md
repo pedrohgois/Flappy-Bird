@@ -1,2 +1,2 @@
-# Jogo Flappy-Bird Construído em Flutter
+# Flappy-Bird
 Jogo em desenvolvimento
